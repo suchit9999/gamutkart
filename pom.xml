@@ -2,8 +2,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>dir.com.gamutgurus</groupId>
-	<artifactId>gamutkart</artifactId>
+	<groupId>dir.com.wiculty</groupId>
+	<artifactId>wicullty</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
@@ -11,7 +11,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.12.1</version>
 			<scope>test</scope>
 		</dependency>
 	
@@ -25,7 +25,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>gamutgurus</finalName>
+		<finalName>wiculty</finalName>
 	</build>
 
 	 <properties>
