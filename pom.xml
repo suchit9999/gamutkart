@@ -2,8 +2,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>dir.com.wiculty</groupId>
-	<artifactId>wicullty</artifactId>
+	<groupId>dir.com.gamutkart</groupId>
+	<artifactId>gamutkart</artifactId>
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
 	
@@ -25,7 +25,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>wiculty</finalName>
+		<finalName>gamutkart</finalName>
 	</build>
 
 	 <properties>
